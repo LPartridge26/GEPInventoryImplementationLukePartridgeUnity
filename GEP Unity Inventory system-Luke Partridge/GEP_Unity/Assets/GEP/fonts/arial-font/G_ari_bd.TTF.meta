@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 4bc09a638078e0243bb32099f7ee5548
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Arial GEO
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 93e47d3d1c0071a4390143ead371cf02, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
